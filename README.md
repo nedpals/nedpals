@@ -4,6 +4,7 @@ I am Ned Palacios, a 20-year-old developer currently living in Davao City, Phili
 
 ## Programming Languages
 - Go
+- Dart
 - Crystal
 - Typescript / Javascript
 - Java
