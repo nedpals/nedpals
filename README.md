@@ -1,8 +1,8 @@
 # Maligayang Pagdating! 👋️
 
-I am Ned Palacios, a 21-year-old developer currently living in Davao City, Philippines. My primary focus is building stuff on the web and working part-time for the [V Programming Language](https://github.com/vlang/v). Currently enrolled as a junior BS Computer Science student at the College of Computer Studies department of the [University of Immaculate Conception](https://uic.edu.ph). On my free time, I watch Korean dramas and animes, as well as read mangas. That's all :)
+I am Ned Palacios, a 22-year-old student tech leader and polyglot software developer based in Davao City, Philippines. Currently a junior BS Computer Science student at the [University of Immaculate Conception](https://uic.edu.ph) and the lead of [Google Developer Student Clubs UIC](https://facebook.com/dscuic). As a developer, my primary focus is building stuff on the web and on technologies that help shape modern developer experiences. I also find time to entertrain myself by watching Korean dramas, animes, as well as reading mangas. 
 
-## Programming Languages
+## Programming Languages I touched
 - Go
 - Dart
 - Crystal
@@ -13,12 +13,11 @@ I am Ned Palacios, a 21-year-old developer currently living in Davao City, Phili
 - Python
 - Kotlin
 - Elixir
+- PHP
 
 ## Other Links
 - [Portfolio: nedpals.xyz](https://nedpals.xyz)
 - [Hacker News: nedp](https://news.ycombinator.com/user?id=nedp)
-- [Instagram: @nedcodes](https://instagram.com/nedcodes)
 - [Twitter: @npned](https://twitter.com/npned)
-- [Youtube: DotGeeq](https://www.youtube.com/channel/UCaz-e85woIoiixZNrqR-XvA)
 
 #### *Imong mama sophisticated*
