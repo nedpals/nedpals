@@ -1,6 +1,6 @@
-# Maligayang Pagdating! 👋️
+<h1 align="center">Maligayang Pagdating! 👋️</h1>
 
-I am Ned Palacios, a 22-year-old student tech leader and polyglot software developer based in Davao City, Philippines. Currently a junior BS Computer Science student at the [University of Immaculate Conception](https://uic.edu.ph) and the lead of [Google Developer Student Clubs UIC](https://facebook.com/dscuic). As a developer, my primary focus is building stuff on the web and on technologies that help shape modern developer experiences. I also find time to entertrain myself by watching Korean dramas, animes, as well as reading mangas. 
+I am Ned Palacios, a 22-year-old computer science student and polyglot software developer based in Davao City, Philippines. My primary focus at the moment is to build stuff on the web and on technologies that help shape developer experiences. I also find time to entertrain myself by watching Korean dramas, animes, as well as reading mangas. 
 
 ## Programming Languages I touched
 - Go
