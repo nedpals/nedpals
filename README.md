@@ -1,6 +1,6 @@
 <h1 align="center">Maligayang Pagdating! 👋️</h1>
 
-I am Ned Palacios, a 22-year-old computer science student and polyglot software developer based in Davao City, Philippines. My primary focus at the moment is to build stuff on the web and on technologies that help shape developer experiences. I also find time to entertrain myself by watching Korean dramas, animes, as well as reading mangas. 
+I am Ned Palacios, a 23-year-old computer science student and polyglot software developer based in Davao City, Philippines. I love to build stuff on the web and on technologies that help shape developer experiences. I also find time to entertrain myself by watching Korean dramas, animes, as well as reading mangas. 
 
 ## Programming Languages I touched
 - Go
